@@ -4,5 +4,5 @@
     "updateInfo": "1. 修复导出日记崩溃问题；\n2. 稳定性优化；\n3. 界面风格调整。\n\n(更新只需3M流量，几秒即可完成)",
     "iosVersion": "13.0",
     "releaseDate": "2022-05-20",
-    "forceUpdate": 1,
+    "forceUpdate": 0,
 }
